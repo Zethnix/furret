@@ -1,5 +1,3 @@
-# This is just a test
-yeah idk what I'm doing
-
-## This is an update ok help me pls
-furret <3
+# Ever dreamt of displaying a moving furret in ascii format
+Yeah, me neither, but now it's no longer a dream.
+ps: i don't know how to use git :)
